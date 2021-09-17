@@ -88,7 +88,7 @@ public class Main {
 
 //          Passo09: PADRINHO DECIDE AJUDAR APADRINHADO
                 int decisaoPadrinhoAjudar = JOptionPane.showConfirmDialog(null, padrinho.getNome() + ", caso " +
-                                "tenham te solicitado, deseja ajuda?"
+                                "tenham te solicitado, deseja ajudar?"
                         , "Rede " +
                                 "do Bem",
                         JOptionPane.YES_NO_OPTION);
